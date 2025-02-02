@@ -1,2 +1,2 @@
 # Attractor-Networks   
-![grid visualization](./out.mov)
+![grid visualization](./out.gif)
