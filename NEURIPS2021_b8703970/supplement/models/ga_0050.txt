@@ -1,0 +1,17 @@
+inputSize : 1
+hiddenSize : 50
+outputSize : 1
+g : 1
+inputVariance : 0.5
+outputVariance : 0.5
+biasScale : 0
+initScale : 0.3
+dt : 0.1
+batchSize : 500
+taskMean : 0.1857
+taskVar : 1.0
+ReLU : 0
+numPop : 50
+numParents : 5
+mutation : 0.005
+total training time: 306.70590376853943
